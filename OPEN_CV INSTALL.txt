@@ -1,0 +1,2 @@
+python 3.9
+e https://www.youtube.com/watch?v=ot6LWpZjTXo

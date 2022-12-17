@@ -1,0 +1,1 @@
+python centroidi-test.py --shape-predictor shape_predictor_68_face_landmarks.dat --detector face_detection_model
